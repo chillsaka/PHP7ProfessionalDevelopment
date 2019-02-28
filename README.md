@@ -1,1 +1,1 @@
-# PHP7ProfessionalDevelopment
+『はじめてのPHPプロフェッショナル開発』の学習用に作成
